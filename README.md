@@ -30,12 +30,6 @@ This is a modern, responsive website built using HTML, CSS. It is designed to be
 ├── /images
 └── README.md
 
-
- 🚀 Live Demo
-
-👉 https://kemjae.github.io/NGO-Charity/
-
-
 📞 Contact Me
 
 If you like this project or want to collaborate:
